@@ -1,0 +1,8 @@
+/nbproject/
+/admin_application/logs/
+composer.lock
+/chef-configs/
+*.DS_Store
+composer.phar
+/vendor
+/admin_application/sql/oldplayers.sql

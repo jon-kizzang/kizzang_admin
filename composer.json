@@ -1,0 +1,8 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "3.*",
+        "predis/predis": "1.1.*@dev",
+        "fabpot/goutte": "~2.0",
+        "paypal/rest-api-sdk-php":"*"
+    }
+}

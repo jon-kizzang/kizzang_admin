@@ -1,0 +1,1 @@
+<iframe src="/admin/get_player_daily/<?= $player_id; ?>/<?= $date; ?>" width="100%" height="300"></iframe>
